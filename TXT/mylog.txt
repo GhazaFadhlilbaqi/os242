@@ -5,8 +5,9 @@
 ZCZC W00 10 L03 Github related
 ZCZC W00 100 L02 Attended mandatory Monday class
 ZCZC W00 100 L02 Attended mandatory Wednesday class
-ZCZC w00 1 L05 Attempted the Friday quiz
+ZCZC W00 1 L05 Attempted the Friday quiz
 ZCZC W00 300 L06 Read the OS book chapter 1 & 2
 ZCZC W01 100 L02 Attended mandatory Monday class
 ZCZC W01 150 L11 Working on assignment #1
 ZCZC W01 150 L11 Worked on assignment #1 again
+ZCZC W01 8 L05 Attempted the Friday quiz Week #1
