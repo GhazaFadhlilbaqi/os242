@@ -11,7 +11,7 @@ permalink: LINKS/
 * [Linux Commands](https://www.hostinger.com/tutorials/linux-commands){:target="_blank"} ---
   A list of useful linux commands for a growing boy
 
-* [Vim Cheatsheet](https://quickref.me/vim) {:target="_blank"} ---
+* [Vim Cheatsheet](https://quickref.me/vim){:target="_blank"} ---
   Putting this to remind me how to quit Vim
 
 * [REGEX](https://www.youtube.com/watch?v=bgBWp9EIlMM){:target="_blank"} ---
