@@ -14,3 +14,4 @@ ZCZC W01 8 L05 Attempted the Friday quiz Week #1
 ZCZC W02 100 L02 Attended mandatory Monday class
 ZCZC W02 100 L02 Attended mandatory Wednesday class
 ZCZC W02 150 L12 Worked on assignment #2
+ZCZC W02 150 L12 Worked on assignment #2 again
