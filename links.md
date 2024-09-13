@@ -9,7 +9,7 @@ permalink: LINKS/
   A video guide on a simple linux distro for people interested in switching their OS to Linux
 
 * [Linux Commands](https://www.hostinger.com/tutorials/linux-commands){:target="_blank"} ---
-  A list of useful linux commands for a growing boy
+  A list of useful linux commands for your everyday linux needs
 
 * [Vim Cheatsheet](https://quickref.me/vim){:target="_blank"} ---
   Putting this to remind me how to quit Vim
