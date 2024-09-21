@@ -19,6 +19,16 @@ permalink: LINKS/
 
 * [BASH](https://www.youtube.com/watch?v=I4EWvMFj37g){:target="_blank"} ---
   An intro video on Bash, showing how it works and what you can do with it 
+
+
+* [Intro to C](https://www.youtube.com/watch?v=U3aXWizDbQ4){:target="_blank"} ---
+  A quick 100 second video to introduce yourself to the legendary C programming language
+
+* [Deep Dive to C](https://www.youtube.com/watch?v=KJgsSFOSQv0){:target="_blank"} ---
+  A deeper dive to C for those of you with a wealth of free time in your hands
+
+* [C Pointers](https://www.youtube.com/watch?v=2ybLD6_2gKM){:target="_blank"} ---
+  A guide on how to not confuse yourself while trying to understand C pointers
 <br>
 <br>
 <hr>
