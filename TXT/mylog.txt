@@ -18,3 +18,7 @@ ZCZC W02 100 L02 Attended mandatory Wednesday class
 ZCZC W02 150 L12 Worked on assignment #2
 ZCZC W02 150 L12 Worked on assignment #2 again
 ZCZC W02 8 L05 Attempted the Friday quiz Week 02
+
+ZCZC W03 100 L02 Attended mandatory Wednesday class
+ZCZC W03 150 L13 Worked on Assignment #3
+ZCZC W03 100 L32 Watching YouTube videos as references for link.md
