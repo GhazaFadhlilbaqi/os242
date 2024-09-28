@@ -29,6 +29,17 @@ permalink: LINKS/
 
 * [C Pointers](https://www.youtube.com/watch?v=2ybLD6_2gKM) ---
   A guide on how to not confuse yourself while trying to understand C pointers
+
+
+
+* [Memory Management Article](https://www.geeksforgeeks.org/memory-management-in-operating-system/) ---
+  A GeeksforGeeks article regarding memory management in operating systems
+
+* [Memory Management Video](https://www.youtube.com/watch?v=p9yZNLeOj4s) ---
+  A video format explaing memory management in operating systems for those who prefer not to read articles
+
+* [AmogOS](https://github.com/Amog-OS/AmogOS) ---
+  An important linux distro every growing person must know
 <br>
 <br>
 <hr>
