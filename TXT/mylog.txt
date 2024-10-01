@@ -25,3 +25,4 @@ ZCZC W03 100 L32 Watching YouTube videos as references for link.md
 
 ZCZC W04 8 L05 Attempted the Friday quiz for Week 03
 ZCZC W04 100 L14 Worked on Assignment #4
+ZCZC W04 120 L32 Watching video regarding memory as class substitute
