@@ -40,6 +40,16 @@ permalink: LINKS/
 
 * [AmogOS](https://github.com/Amog-OS/AmogOS) ---
   An important linux distro every growing person must know
+
+
+* [But, What is Virtual Memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I) ---
+  A video that hopefully answers that question
+
+* [Kernel Panics!?](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/) ---
+  An article regarding kernel panics and the infamous "Blue Screen of Death". Maybe this can also solve my own panic attacks?
+
+* [Out of Memory](https://www.youtube.com/watch?v=Cm3-6cOwICU) ---
+  A video showing how linux systems react when they are out of memory
 <br>
 <br>
 <hr>
