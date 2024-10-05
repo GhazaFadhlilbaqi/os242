@@ -21,8 +21,12 @@ ZCZC W02 8 L05 Attempted the Friday quiz Week 02
 
 ZCZC W03 100 L02 Attended mandatory Wednesday class
 ZCZC W03 150 L13 Worked on Assignment #3
-ZCZC W03 100 L32 Watching YouTube videos as references for link.md
+ZCZC W03 100 L32 Watching YouTube videos as references for links.md
 
 ZCZC W04 8 L05 Attempted the Friday quiz for Week 03
 ZCZC W04 100 L14 Worked on Assignment #4
 ZCZC W04 120 L32 Watching video regarding memory as class substitute
+
+ZCZC W05 8 L05 Attempted the Friday quiz for Week 04
+ZCZC W05 100 L015 Worked on Assignment #5
+ZCZC 120 L32 Watched some YouTube videos as refernces for this week's links.md
