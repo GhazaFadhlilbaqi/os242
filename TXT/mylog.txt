@@ -31,3 +31,5 @@ ZCZC W05 8 L05 Attempted the Friday quiz for Week 04
 ZCZC W05 100 L015 Worked on Assignment #5
 ZCZC W05 120 L32 Watched some YouTube videos as refernces for this week's links.md
 ZCZC W05 100 L02 Attended mandatory Monday Class
+
+ZCZC W06 100 L02 Attended mandatory Wednesday Class
