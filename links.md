@@ -50,6 +50,17 @@ permalink: LINKS/
 
 * [Out of Memory](https://www.youtube.com/watch?v=Cm3-6cOwICU) ---
   A video showing how linux systems react when they are out of memory
+
+
+* [C Forks](https://www.youtube.com/watch?v=cex9XrZCU14) ---
+  The legendary C Forks(). May the Fork() be with you!. 
+
+* [More C Forks](https://www.youtube.com/watch?v=QD9YKSg3wCc) ---
+  I'm a visual learner. So here's a more "visual" demonstration of C Forks()
+
+* [No More C Forks pls](https://www.youtube.com/watch?v=xVSPv-9x3gk) ---
+  Too many Fork()-ing videos. We love Fork()knife we love Fork()knife.  
+  
 <br>
 <br>
 <hr>
