@@ -59,7 +59,7 @@ permalink: LINKS/
   I'm a visual learner. So here's a more "visual" demonstration of C Forks()
 
 * [No More C Forks pls](https://www.youtube.com/watch?v=xVSPv-9x3gk) ---
-  Too many Fork()-ing videos. We love Fork()knife we love Fork()knife.  
+  Too many Fork()-ing videos. There are more Fork() vids out there but this'll be the last Fork() vid I'll watch for now.  
   
 <br>
 <br>
