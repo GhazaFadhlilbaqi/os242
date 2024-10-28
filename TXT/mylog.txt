@@ -33,3 +33,5 @@ ZCZC W05 120 L32 Watched some YouTube videos as refernces for this week's links.
 ZCZC W05 100 L02 Attended mandatory Monday Class
 
 ZCZC W06 100 L02 Attended mandatory Wednesday Class
+ZCZC W06 120 L32 Watched YouTube vids for links.md
+ZCZC W06 100 L02 Attended mandatory Monday Class
