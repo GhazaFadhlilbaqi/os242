@@ -59,8 +59,17 @@ permalink: LINKS/
   I'm a visual learner. So here's a more "visual" demonstration of C Forks()
 
 * [No More C Forks pls](https://www.youtube.com/watch?v=xVSPv-9x3gk) ---
-  Too many Fork()-ing videos. There are more Fork() vids out there but this'll be the last Fork() vid I'll watch for now.  
+  Too many Fork()-ing videos. There are more Fork() vids out there but this'll be the last Fork() vid I'll watch for now.
   
+
+* [IPS (Intro To Process Synchronization)](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) ---
+  A Geeks4Geeks article about process synchronization in operating systems. The article has a lot of illustrations for my fellow visual learners.
+
+* [Whole-lotta-Synchronizations](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) ---
+  A YouTube playlist that is chock-full of synchronization topics. If you have a "couple hours" to spare, give it a watch!
+
+* [Farewell Tarball T-T](https://www.youtube.com/watch?v=ArHXYO-Ktzs&t=312s) ---
+  A lil video I found that talks about Tarball. Give it a watch to commemorate the final episode of our Tarball-ing adventures. 
 <br>
 <br>
 <hr>
