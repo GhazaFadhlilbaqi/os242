@@ -70,6 +70,16 @@ permalink: LINKS/
 
 * [Farewell Tarball T-T](https://www.youtube.com/watch?v=ArHXYO-Ktzs&t=312s) ---
   A lil video I found that talks about Tarball. Give it a watch to commemorate the final episode of our Tarball-ing adventures. 
+
+
+* [Linux From Scratch by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3) ---
+  Our holy scripture for the next 3 weeks. Give it a watch while also installing LFS on your own to avoid any silly little accidents :)
+
+* [Arch Linux From Scratch](https://www.youtube.com/watch?v=_JYIAaLrwcY) ---
+  While not as difficult as LFS, it's still a pretty challenging system to install. For any of you who are interested, or want to earn bragging rights, give it a watch!
+ 
+* [Arch Linux Speedrun](https://www.youtube.com/watch?v=8utpbbdj0LQ) ---
+  Bro speedrunning installing Arch. Fun video, give it a watch!
 <br>
 <br>
 <hr>
